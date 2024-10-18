@@ -1,4 +1,5 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+## About me:
 I'm still a nobody.
 
 <!--
@@ -15,8 +16,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=radical)](https://github.com/ChiefAbrar)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=graywhite)
-### Tech Stack
+## GitHub Stats:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=tokyonight)](https://github.com/ChiefAbrar)
+## Skills:
+- Languages: C | C++ | Java | Python | SQL
+- Frontend: HTML | CSS
+- Backend: Python | Java | SQL
+- Tools: Git | Docker | Linux | LaTeX
+### Tech Stack:
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+## My Handles:
+[![Discord](https://img.shields.io/badge/Discord-xenomialabrar-7289DA?logo=discord&logoColor=white)](https://discord.com/)
