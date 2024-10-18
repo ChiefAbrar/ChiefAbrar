@@ -16,17 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## GitHub Stats:
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=tokyonight)](https://github.com/ChiefAbrar)
 ## Skills:
 - Languages: C | C++ | Java | Python | SQL
 - Frontend: HTML | CSS
 - Backend: Python | Java | SQL
 - Tools: Git | Docker | Linux | LaTeX
-### Tech Stack:
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+## GitHub Stats:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=tokyonight)](https://github.com/ChiefAbrar)
 ## My Handles:
 [![Discord](https://img.shields.io/badge/Discord-xenomialabrar-7289DA?logo=discord&logoColor=white)](https://discord.com/)
