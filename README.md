@@ -1,6 +1,5 @@
 ## Hi there 👋
 I'm still a nobody.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=radical)](https://github.com/ChiefAbrar)
 
 <!--
 **ChiefAbrar/ChiefAbrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiefAbrar&theme=radical)](https://github.com/ChiefAbrar)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=graywhite)
+### Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
